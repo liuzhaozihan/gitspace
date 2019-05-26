@@ -17,7 +17,9 @@ local.properties
   
 .DS_Store
 Thumbs.db
-  
+dbconfig.php
+*.sql
+*.gitignore 
 *.bak
 *.tem
 *.temp
